@@ -1,0 +1,235 @@
+int	280	0	1	4
+[ERR]: unable to analysize   at 0 line, from 1 to 4
+gcd	284	0	2	4
+[ERR]: unable to analysize   at 0 line, from 2 to 4
+(	272	0	3	4
+int	280	0	4	7
+[ERR]: unable to analysize   at 0 line, from 4 to 7
+u	284	0	5	7
+,	271	0	6	7
+[ERR]: unable to analysize   at 0 line, from 6 to 7
+int	280	0	7	10
+[ERR]: unable to analysize   at 0 line, from 7 to 10
+v	284	0	8	10
+)	273	0	9	10
+[ERR]: unable to analysize   at 0 line, from 9 to 10
+{	276	0	10	11
+[ERR]: unable to analysize   at 0 line, from 10 to 11
+/	262	0	11	12
+*	261	0	12	13
+[ERR]: unable to analysize   at 0 line, from 12 to 13
+calculate	284	0	13	15
+[ERR]: unable to analysize   at 0 line, from 13 to 15
+the	284	0	14	16
+[ERR]: unable to analysize   at 0 line, from 14 to 16
+gcd	284	0	15	17
+[ERR]: unable to analysize   at 0 line, from 15 to 17
+of	284	0	16	18
+[ERR]: unable to analysize   at 0 line, from 16 to 18
+u	284	0	17	19
+[ERR]: unable to analysize   at 0 line, from 17 to 19
+and	284	0	18	20
+[ERR]: unable to analysize   at 0 line, from 18 to 20
+v	284	0	19	21
+[ERR]: unable to analysize   at 0 line, from 19 to 21
+*	261	0	20	21
+/	262	0	21	22
+[ERR]: unable to analysize   at 0 line, from 21 to 22
+[ERR]: unable to analysize   at 0 line, from 21 to 22
+[ERR]: unable to analysize   at 0 line, from 21 to 22
+[ERR]: unable to analysize   at 0 line, from 21 to 22
+if	279	0	22	24
+[ERR]: unable to analysize   at 0 line, from 22 to 24
+(	272	0	23	24
+v	284	0	24	26
+[ERR]: unable to analysize   at 0 line, from 24 to 26
+==	267	0	25	26
+[ERR]: unable to analysize   at 0 line, from 25 to 26
+0	285	0	26	29
+)	273	0	27	28
+[ERR]: unable to analysize   at 0 line, from 27 to 28
+return	281	0	28	34
+[ERR]: unable to analysize   at 0 line, from 28 to 34
+u	284	0	29	31
+;	270	0	30	31
+[ERR]: unable to analysize   at 0 line, from 30 to 31
+[ERR]: unable to analysize   at 0 line, from 30 to 31
+[ERR]: unable to analysize   at 0 line, from 30 to 31
+[ERR]: unable to analysize   at 0 line, from 30 to 31
+else	278	0	31	35
+[ERR]: unable to analysize   at 0 line, from 31 to 35
+return	281	0	32	38
+[ERR]: unable to analysize   at 0 line, from 32 to 38
+gcd	284	0	33	35
+(	272	0	34	35
+v	284	0	35	37
+,	271	0	36	37
+[ERR]: unable to analysize   at 0 line, from 36 to 37
+u	284	0	37	39
+[ERR]: unable to analysize   at 0 line, from 37 to 39
+-	260	0	38	39
+[ERR]: unable to analysize   at 0 line, from 38 to 39
+u	284	0	39	41
+[ERR]: unable to analysize   at 0 line, from 39 to 41
+/	262	0	40	41
+[ERR]: unable to analysize   at 0 line, from 40 to 41
+v	284	0	41	43
+[ERR]: unable to analysize   at 0 line, from 41 to 43
+*	261	0	42	43
+[ERR]: unable to analysize   at 0 line, from 42 to 43
+v	284	0	43	45
+)	273	0	44	45
+;	270	0	45	46
+[ERR]: unable to analysize   at 0 line, from 45 to 46
+/	262	0	46	47
+*	261	0	47	48
+[ERR]: unable to analysize   at 0 line, from 47 to 48
+v	284	0	48	50
+,	271	0	49	50
+u	284	0	50	52
+-	260	0	51	52
+u	284	0	52	54
+/	262	0	53	54
+v	284	0	54	56
+*	261	0	55	56
+v	284	0	56	58
+[ERR]: unable to analysize   at 0 line, from 56 to 58
+is	284	0	57	59
+[ERR]: unable to analysize   at 0 line, from 57 to 59
+equals	284	0	58	60
+[ERR]: unable to analysize   at 0 line, from 58 to 60
+to	284	0	59	61
+[ERR]: unable to analysize   at 0 line, from 59 to 61
+u	284	0	60	62
+[ERR]: unable to analysize   at 0 line, from 60 to 62
+mod	284	0	61	63
+[ERR]: unable to analysize   at 0 line, from 61 to 63
+v	284	0	62	64
+*	261	0	63	64
+/	262	0	64	65
+}	277	0	65	66
+int	280	0	66	69
+[ERR]: unable to analysize   at 0 line, from 66 to 69
+main	284	0	67	69
+(	272	0	68	69
+)	273	0	69	70
+[ERR]: unable to analysize   at 0 line, from 69 to 70
+{	276	0	70	71
+[ERR]: unable to analysize   at 0 line, from 70 to 71
+[ERR]: unable to analysize   at 0 line, from 70 to 71
+[ERR]: unable to analysize   at 0 line, from 70 to 71
+[ERR]: unable to analysize   at 0 line, from 70 to 71
+int	280	0	71	74
+[ERR]: unable to analysize   at 0 line, from 71 to 74
+x	284	0	72	74
+;	270	0	73	74
+[ERR]: unable to analysize   at 0 line, from 73 to 74
+int	280	0	74	77
+[ERR]: unable to analysize   at 0 line, from 74 to 77
+y	284	0	75	77
+;	270	0	76	77
+[ERR]: unable to analysize   at 0 line, from 76 to 77
+int	280	0	77	80
+[ERR]: unable to analysize   at 0 line, from 77 to 80
+temp	284	0	78	80
+;	270	0	79	80
+[ERR]: unable to analysize   at 0 line, from 79 to 80
+[ERR]: unable to analysize   at 0 line, from 79 to 80
+[ERR]: unable to analysize   at 0 line, from 79 to 80
+[ERR]: unable to analysize   at 0 line, from 79 to 80
+x	284	0	80	82
+[ERR]: unable to analysize   at 0 line, from 80 to 82
+=	269	0	81	82
+[ERR]: unable to analysize   at 0 line, from 81 to 82
+72	285	0	82	85
+;	270	0	83	84
+[ERR]: unable to analysize   at 0 line, from 83 to 84
+[ERR]: unable to analysize   at 0 line, from 83 to 84
+[ERR]: unable to analysize   at 0 line, from 83 to 84
+[ERR]: unable to analysize   at 0 line, from 83 to 84
+y	284	0	84	86
+[ERR]: unable to analysize   at 0 line, from 84 to 86
+=	269	0	85	86
+[ERR]: unable to analysize   at 0 line, from 85 to 86
+18	285	0	86	89
+;	270	0	87	88
+[ERR]: unable to analysize   at 0 line, from 87 to 88
+[ERR]: unable to analysize   at 0 line, from 87 to 88
+[ERR]: unable to analysize   at 0 line, from 87 to 88
+[ERR]: unable to analysize   at 0 line, from 87 to 88
+if	279	0	88	90
+[ERR]: unable to analysize   at 0 line, from 88 to 90
+(	272	0	89	90
+x	284	0	90	92
+<	263	0	91	92
+y	284	0	92	94
+)	273	0	93	94
+[ERR]: unable to analysize   at 0 line, from 93 to 94
+{	276	0	94	95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+[ERR]: unable to analysize   at 0 line, from 94 to 95
+temp	284	0	95	97
+[ERR]: unable to analysize   at 0 line, from 95 to 97
+=	269	0	96	97
+[ERR]: unable to analysize   at 0 line, from 96 to 97
+x	284	0	97	99
+;	270	0	98	99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+[ERR]: unable to analysize   at 0 line, from 98 to 99
+x	284	0	99	101
+[ERR]: unable to analysize   at 0 line, from 99 to 101
+=	269	0	100	101
+[ERR]: unable to analysize   at 0 line, from 100 to 101
+y	284	0	101	103
+;	270	0	102	103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+[ERR]: unable to analysize   at 0 line, from 102 to 103
+y	284	0	103	105
+[ERR]: unable to analysize   at 0 line, from 103 to 105
+=	269	0	104	105
+[ERR]: unable to analysize   at 0 line, from 104 to 105
+temp	284	0	105	107
+;	270	0	106	107
+[ERR]: unable to analysize   at 0 line, from 106 to 107
+[ERR]: unable to analysize   at 0 line, from 106 to 107
+[ERR]: unable to analysize   at 0 line, from 106 to 107
+[ERR]: unable to analysize   at 0 line, from 106 to 107
+}	277	0	107	108
+[ERR]: unable to analysize   at 0 line, from 107 to 108
+[ERR]: unable to analysize   at 0 line, from 107 to 108
+[ERR]: unable to analysize   at 0 line, from 107 to 108
+[ERR]: unable to analysize   at 0 line, from 107 to 108
+gcd	284	0	108	110
+(	272	0	109	110
+x	284	0	110	112
+,	271	0	111	112
+y	284	0	112	114
+)	273	0	113	114
+;	270	0	114	115
+[ERR]: unable to analysize   at 0 line, from 114 to 115
+[ERR]: unable to analysize   at 0 line, from 114 to 115
+[ERR]: unable to analysize   at 0 line, from 114 to 115
+[ERR]: unable to analysize   at 0 line, from 114 to 115
+return	281	0	115	121
+[ERR]: unable to analysize   at 0 line, from 115 to 121
+0	285	0	116	119
+;	270	0	117	118
+}	277	0	118	119
